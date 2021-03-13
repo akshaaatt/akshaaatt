@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Android and iOS App Development
-- 🌱 I’m currently learning Competitive Programming
+🔭 I’m currently working on Android and iOS App Development
+🌱 I’m currently learning Competitive Programming
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshaaatt&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)\
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshaaatt&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshaaatt&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
