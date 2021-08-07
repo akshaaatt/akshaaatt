@@ -1,9 +1,5 @@
 <h1 align="left">Hi 👋, I'm Akshat</h1>
 <h3 align="left">A passionate developer, student and an open source enthusiast!</h3>
-<h4 align="left">
-I dwelled into the world of coding around three years back and started off with java, which then opened up the course of Android development for me. As of today, I am highly skilled in Kotlin, Reftrofit, MVVM architechture, Google Cloud Platform and the relevant Google APIs. I am familiar with Dependency Injection using concepts like Dagger and Hilt.
-I am currently a part of GSoC, Google Summer of Code for an organization called MetaBrainz Foundation Inc.
-</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaaatt&label=Profile%20views&color=0e75b6&style=flat" alt="akshaaatt" /> </p>
 
