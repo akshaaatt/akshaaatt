@@ -7,8 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/akshaaatt" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409945.svg" alt="akshat-tiwari-610764168" height="30" width="40" /></a>
-<a href="https://instagram.com/akshaaatt" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409946.svg" alt="akshaaatt" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/akshaaatt" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="akshat-tiwari-610764168" height="30" width="40" /></a>
+<a href="https://instagram.com/akshaaatt" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" alt="akshaaatt" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/akshaaatt" target="blank"><img align="center" src="https://avatars1.githubusercontent.com/u/11960354?s=460&v=4" alt="akshaaatt" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/akshaaatt" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="akshaaatt" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14790459/akshat-tiwari" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/stack-overflow.svg" alt="akshaaatt" height="30" width="40" /></a>
