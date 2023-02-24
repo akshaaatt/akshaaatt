@@ -8,8 +8,6 @@
 <p align="center">
 <a href="https://linkedin.com/in/akshaaatt" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="akshaaatt" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCbUnaNpFs7Xpjq_Y9n7IYqw" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="akshaaatt" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/akshaaatt" target="blank"><img align="center" src="https://avatars1.githubusercontent.com/u/11960354?s=460&v=4" alt="akshaaatt" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/akshaaatt" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="akshaaatt" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14790459/akshat-tiwari" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/stack-overflow.svg" alt="akshaaatt" height="30" width="40" /></a>
  <a href="https://medium.com/@akshaaatt" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/medium-m-2.svg" alt="akshaaatt" height="30" width="40" /></a>
 
