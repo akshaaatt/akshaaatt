@@ -16,6 +16,3 @@
 <br>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshaaatt&show_icons=true&locale=en&theme=radical" alt="akshaaatt" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaaatt&theme=dark" alt="akshaaatt" /></p>
-
-<p align="center"><img align="center" src="https://github-contributor-stats.vercel.app/api?username=akshaaatt&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="akshaaatt" /></p>
